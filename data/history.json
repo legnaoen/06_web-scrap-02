@@ -1,0 +1,14 @@
+[
+    {
+      "title": "NVIDIA 뉴스",
+      "url": "https://example.com/nvidia-news",
+      "summary": "엔비디아는 AI 반도체 시장에서 성장을 이어가고 있습니다.",
+      "date": "2025-05-06"
+    },
+    {
+      "title": "삼성전자 기사",
+      "url": "https://example.com/samsung",
+      "summary": "삼성전자는 1분기 실적 발표에서 예상을 상회하는 성과를 기록했습니다.",
+      "date": "2025-05-05"
+    }
+  ]
